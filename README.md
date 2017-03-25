@@ -15,10 +15,3 @@ El proyecto está vinculado directamente con el ambito educativo. Por medio de o
 
 [Tutorial en la Wiki](https://github.com/Josbaney/MECHATRONICS-AND-ROBOTICS/wiki)
 
-
-## Autor
-[Josbaney Pereira](https://github.com/Josbaney)
-
-## Licencia
-![](https://github.com/Obijuan/open-fpga-verilog-tutorial/raw/master/tutorial/doc/images/attribution-share-alike-creative-commons-license.png)  
-Licensed under a  [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
