@@ -1,6 +1,8 @@
 //--------------------------------------------------------------
 //-- Testing the freeleds board connected to the Skymega
 //-- The "knight rider" effect is played on the freeleds board
+// --Prueba de la placa freeleds conectada al SkyMega 
+// -- El efecto "knight rider" se juega en la placa freeleds
 //--------------------------------------------------------------
 //-- (c) Juan Gonzalez-Gomez (Obijuan), Dec 2011
 //-- GPL license
