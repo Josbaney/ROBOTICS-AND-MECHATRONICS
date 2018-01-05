@@ -13,5 +13,5 @@ El proyecto está vinculado directamente con el ambito educativo. Por medio de o
 
 ### **AutoFormaciónTL**
 
-**[Tutorial en la Wiki](https://github.com/Josbaney/MECHATRONICS-AND-ROBOTICS/wiki)**
+#**[Tutorial en la Wiki]**(https://github.com/Josbaney/MECHATRONICS-AND-ROBOTICS/wiki)
 
